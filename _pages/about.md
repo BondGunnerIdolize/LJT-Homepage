@@ -22,7 +22,7 @@ redirect_from:
 - Ph.D. in Computer Science (2024-Present).
 - PhD candidate at HKUST NLP Group.
 - Ph.D. supervisor: Professor Junxian He.
-- HKUST NLP Group is a research group at Hong Kong University of Science and Technology, is led by Professor Junxian He, and focuses on natural language processing research.
+- HKUST NLP Group is a research group at Hong Kong University of Science and Technology, led by Professor Junxian He, and focuses on natural language processing research.
 
 ### Shanghai Jiao Tong University
 
